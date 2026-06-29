@@ -1,0 +1,9 @@
+{
+  "subdomain": "drift",
+  "domain": "thedev.me",
+  "email_or_discord": "radwan.sheb@alayadi.ly",
+  "github_username": "radwansh",
+  "description": "Drift - Payroll variance analysis SaaS",
+  "records": { "CNAME": ["cname.vercel-dns.com"] },
+  "proxied": true
+}
